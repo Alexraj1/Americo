@@ -1,0 +1,70 @@
+<?xml version = "1.0"?>
+<ClassNames>
+<ClassName>
+  <V>PS</V>
+  <students>
+    <student>
+
+      <name>
+        <firstname> James </firstname>
+        <lastname> Smith </lastname>
+        <print> Oui </print>
+      </name>
+      <address>
+        <street> 101 South Street</street>
+        <city> Halifax </city>
+        <email> james@dal.ca </email>
+        <phone> 4940001 </phone>
+      </address>
+    </student>
+
+    <student>
+      <name>
+        <firstname> Tom </firstname>
+        <lastname> White </lastname>
+        <print> Oui </print>
+      </name>
+      <address>
+        <street> 202 Victoria Road </street>
+        <city> Dartmouth </city>
+        <email> tom@dal.ca</email>
+        <phone> 4940002 </phone>
+      </address>
+    </student>
+  </students>  
+</ClassName>
+  <ClassName>
+    <V>MS</V>
+    <students>
+      <student>
+
+        <name>
+          <firstname> James </firstname>
+          <lastname> Smith </lastname>
+          <print> Oui </print>
+        </name>
+        <address>
+          <street> 101 South Street</street>
+          <city> Halifax </city>
+          <email> james@dal.ca </email>
+          <phone> 4940001 </phone>
+        </address>
+      </student>
+
+      <student>
+        <name>
+          <firstname> Tom </firstname>
+          <lastname> White </lastname>
+          <print> Oui </print>
+        </name>
+        <address>
+          <street> 202 Victoria Road </street>
+          <city> Dartmouth </city>
+          <email> tom@dal.ca</email>
+          <phone> 4940002 </phone>
+        </address>
+      </student>
+    </students>
+  </ClassName>
+
+</ClassNames>
